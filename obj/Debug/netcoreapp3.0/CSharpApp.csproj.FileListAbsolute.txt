@@ -1,0 +1,11 @@
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp.deps.json
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp.runtimeconfig.json
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp.runtimeconfig.dev.json
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp.dll
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/bin/Debug/netcoreapp3.0/CSharpApp.pdb
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/obj/Debug/netcoreapp3.0/CSharpApp.csprojAssemblyReference.cache
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/obj/Debug/netcoreapp3.0/CSharpApp.AssemblyInfoInputs.cache
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/obj/Debug/netcoreapp3.0/CSharpApp.AssemblyInfo.cs
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/obj/Debug/netcoreapp3.0/CSharpApp.dll
+/Users/ryanpitts/Projects/CSharpApp/CSharpApp/obj/Debug/netcoreapp3.0/CSharpApp.pdb
